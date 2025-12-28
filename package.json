@@ -1,0 +1,31 @@
+{
+  "name": "thicc",
+  "version": "1.0.0",
+  "description": "JSONL Conversation Compression Tool for Claude Code conversations",
+  "main": "Thicc.js",
+  "type": "module",
+  "scripts": {
+    "start": "node Thicc.js"
+  },
+  "keywords": [
+    "jsonl",
+    "conversation",
+    "compression",
+    "tool",
+    "claude",
+    "claude code",
+    "compact",
+    "ai"
+  ],
+  "author": "immapolar",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^12.1.0",
+    "ollama": "^0.5.9",
+    "ora": "^8.0.1"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}

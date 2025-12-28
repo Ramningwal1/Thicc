@@ -1,0 +1,4 @@
+node_modules/
+     Src/*.jsonl
+     Dist/*.jsonl
+     .env
