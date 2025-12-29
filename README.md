@@ -335,13 +335,6 @@ Thicc/
 | **Invalid JSONL** | Reports errors, skips file, continues processing |
 | **Incomplete tool pairs** | Finds and deletes orphaned tool pairs |
 
-**Playful Error Messages:**
-```
-⚠️  Oops, file too shy
-⚠️  JSONL refused to talk
-⚠️  Couldn't stuff the output
-```
-
 ---
 
 ## 🎯 **Workflow**
